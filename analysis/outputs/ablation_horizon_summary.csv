@@ -1,0 +1,10 @@
+horizon_weeks,design,design_label,weeks_evaluated,mean_recall_at_15,mean_precision_at_15,total_cost,mean_weekly_cost
+1,A_current_success,A. Current success only,24,0.4008106246019696,0.8055555555555555,399600,16650.0
+1,B_success_deterioration,B. Success + deterioration,24,0.4084228561532183,0.8166666666666668,397200,16550.0
+1,C_current_production,C. Current production score,24,0.41253093171962724,0.8250000000000001,395400,16475.0
+2,A_current_success,A. Current success only,24,0.359249694585589,0.7000000000000001,690000,28750.0
+2,B_success_deterioration,B. Success + deterioration,24,0.37339904943332664,0.7374999999999999,673800,28075.0
+2,C_current_production,C. Current production score,24,0.3742401976263466,0.7374999999999999,673800,28075.0
+3,A_current_success,A. Current success only,24,0.32457722166624386,0.6083333333333333,998400,41600.0
+3,B_success_deterioration,B. Success + deterioration,24,0.33917495695907945,0.6509259259259259,970800,40450.0
+3,C_current_production,C. Current production score,24,0.3382050714303197,0.6462962962962963,973800,40575.0

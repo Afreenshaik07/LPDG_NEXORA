@@ -1,0 +1,9 @@
+week_start,selected_gateways,avg_score,min_score,max_score,critical_count,high_count,medium_count,weekly_visit_cost_eur,top_gateway,top_score,top_priority,top_reason
+2026-02-02,15,0.8971,0.8533,0.9637,5,5,5,5700,022C6F326E3B,0.9637,Critical,"meter-read success is 14%; 6 consecutive low-success weeks; 254,891s offline; 1196 disconnections; 53 reboots"
+2026-02-09,15,0.7959,0.7815,0.8089,5,5,5,5700,022C6F326E3B,0.8089,Critical,"meter-read success is 14%; 6 consecutive low-success weeks; latest meter-read data is 1 week old; 323,317s offline; 1781 disconnections; 94 reboots"
+2026-02-16,15,0.7938,0.7798,0.8086,5,5,5,5700,022C6F326E3B,0.8086,Critical,"meter-read success is 14%; 6 consecutive low-success weeks; latest meter-read data is 2 weeks old; 136,330s offline; 1199 disconnections; 86 reboots"
+2026-02-23,15,0.7893,0.7669,0.8093,5,5,5,5700,022C6F326E3B,0.8093,Critical,"meter-read success is 14%; 6 consecutive low-success weeks; latest meter-read data is 3 weeks old; 669,680s offline; 1724 disconnections; 119 reboots"
+2026-03-02,15,0.7888,0.7696,0.8086,5,5,5,5700,022C6F326E3B,0.8086,Critical,"meter-read success is 14%; 6 consecutive low-success weeks; latest meter-read data is 4 weeks old; 726,642s offline; 1412 disconnections; 57 reboots"
+2026-03-09,15,0.7861,0.7614,0.8087,5,5,5,5700,022C6F326E3B,0.8087,Critical,"meter-read success is 14%; 6 consecutive low-success weeks; latest meter-read data is 5 weeks old; 123,620s offline; 1220 disconnections; 109 reboots"
+2026-03-16,15,0.7862,0.7651,0.8084,5,5,5,5700,02D4DFEF402A,0.8084,Critical,"meter-read success is 14%; 8 consecutive low-success weeks; latest meter-read data is 6 weeks old; 51,548s offline; 1691 disconnections"
+2026-03-23,15,0.7806,0.7575,0.8075,5,5,5,5700,022C6F326E3B,0.8075,Critical,"meter-read success is 14%; 6 consecutive low-success weeks; latest meter-read data is 7 weeks old; 41,437s offline; 924 disconnections; 14 reboots"

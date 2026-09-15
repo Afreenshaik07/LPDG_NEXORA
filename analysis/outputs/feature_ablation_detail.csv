@@ -1,0 +1,116 @@
+decision_week,design,design_label,future_failure_events,captured_failure_events,missed_failure_weeks,recall_at_15,precision_at_15,total_cost
+2025-08-11,A_current_success,A. Current success only,61,24,37,0.39344262295081966,0.8,27900
+2025-08-11,B_success_deterioration,B. Success + deterioration,61,24,37,0.39344262295081966,0.8,27900
+2025-08-11,C_success_persistence,C. Success + persistence,61,24,37,0.39344262295081966,0.8,27900
+2025-08-11,D_business_only,D. Business-only combined,61,24,37,0.39344262295081966,0.8,27900
+2025-08-11,E_final_combined,E. Final + technical confirmation,61,25,36,0.4098360655737705,0.8333333333333334,27300
+2025-08-18,A_current_success,A. Current success only,59,22,37,0.3728813559322034,0.7333333333333333,27900
+2025-08-18,B_success_deterioration,B. Success + deterioration,59,22,37,0.3728813559322034,0.7333333333333333,27900
+2025-08-18,C_success_persistence,C. Success + persistence,59,22,37,0.3728813559322034,0.7333333333333333,27900
+2025-08-18,D_business_only,D. Business-only combined,59,22,37,0.3728813559322034,0.7333333333333333,27900
+2025-08-18,E_final_combined,E. Final + technical confirmation,59,22,37,0.3728813559322034,0.7333333333333333,27900
+2025-08-25,A_current_success,A. Current success only,49,16,33,0.32653061224489793,0.5333333333333333,25500
+2025-08-25,B_success_deterioration,B. Success + deterioration,49,11,38,0.22448979591836735,0.36666666666666664,28500
+2025-08-25,C_success_persistence,C. Success + persistence,49,16,33,0.32653061224489793,0.5333333333333333,25500
+2025-08-25,D_business_only,D. Business-only combined,49,11,38,0.22448979591836735,0.36666666666666664,28500
+2025-08-25,E_final_combined,E. Final + technical confirmation,49,12,37,0.24489795918367346,0.4,27900
+2025-09-01,A_current_success,A. Current success only,48,10,38,0.20833333333333334,0.3333333333333333,28500
+2025-09-01,B_success_deterioration,B. Success + deterioration,48,19,29,0.3958333333333333,0.6333333333333333,23100
+2025-09-01,C_success_persistence,C. Success + persistence,48,10,38,0.20833333333333334,0.3333333333333333,28500
+2025-09-01,D_business_only,D. Business-only combined,48,19,29,0.3958333333333333,0.6333333333333333,23100
+2025-09-01,E_final_combined,E. Final + technical confirmation,48,19,29,0.3958333333333333,0.6333333333333333,23100
+2025-09-08,A_current_success,A. Current success only,55,16,39,0.2909090909090909,0.5333333333333333,29100
+2025-09-08,B_success_deterioration,B. Success + deterioration,55,23,32,0.41818181818181815,0.7666666666666667,24900
+2025-09-08,C_success_persistence,C. Success + persistence,55,12,43,0.21818181818181817,0.4,31500
+2025-09-08,D_business_only,D. Business-only combined,55,23,32,0.41818181818181815,0.7666666666666667,24900
+2025-09-08,E_final_combined,E. Final + technical confirmation,55,25,30,0.45454545454545453,0.8333333333333334,23700
+2025-09-15,A_current_success,A. Current success only,55,21,34,0.38181818181818183,0.7,26100
+2025-09-15,B_success_deterioration,B. Success + deterioration,55,22,33,0.4,0.7333333333333333,25500
+2025-09-15,C_success_persistence,C. Success + persistence,55,16,39,0.2909090909090909,0.5333333333333333,29100
+2025-09-15,D_business_only,D. Business-only combined,55,22,33,0.4,0.7333333333333333,25500
+2025-09-15,E_final_combined,E. Final + technical confirmation,55,22,33,0.4,0.7333333333333333,25500
+2025-09-22,A_current_success,A. Current success only,52,17,35,0.3269230769230769,0.5666666666666667,26700
+2025-09-22,B_success_deterioration,B. Success + deterioration,52,19,33,0.36538461538461536,0.6333333333333333,25500
+2025-09-22,C_success_persistence,C. Success + persistence,52,19,33,0.36538461538461536,0.6333333333333333,25500
+2025-09-22,D_business_only,D. Business-only combined,52,19,33,0.36538461538461536,0.6333333333333333,25500
+2025-09-22,E_final_combined,E. Final + technical confirmation,52,19,33,0.36538461538461536,0.6333333333333333,25500
+2025-09-29,A_current_success,A. Current success only,52,20,32,0.38461538461538464,0.6666666666666666,24900
+2025-09-29,B_success_deterioration,B. Success + deterioration,52,25,27,0.4807692307692308,0.8333333333333334,21900
+2025-09-29,C_success_persistence,C. Success + persistence,52,17,35,0.3269230769230769,0.5666666666666667,26700
+2025-09-29,D_business_only,D. Business-only combined,52,25,27,0.4807692307692308,0.8333333333333334,21900
+2025-09-29,E_final_combined,E. Final + technical confirmation,52,22,30,0.4230769230769231,0.7333333333333333,23700
+2025-10-06,A_current_success,A. Current success only,60,25,35,0.4166666666666667,0.8333333333333334,26700
+2025-10-06,B_success_deterioration,B. Success + deterioration,60,24,36,0.4,0.8,27300
+2025-10-06,C_success_persistence,C. Success + persistence,60,25,35,0.4166666666666667,0.8333333333333334,26700
+2025-10-06,D_business_only,D. Business-only combined,60,24,36,0.4,0.8,27300
+2025-10-06,E_final_combined,E. Final + technical confirmation,60,24,36,0.4,0.8,27300
+2025-10-13,A_current_success,A. Current success only,66,23,43,0.3484848484848485,0.7666666666666667,31500
+2025-10-13,B_success_deterioration,B. Success + deterioration,66,24,42,0.36363636363636365,0.8,30900
+2025-10-13,C_success_persistence,C. Success + persistence,66,23,43,0.3484848484848485,0.7666666666666667,31500
+2025-10-13,D_business_only,D. Business-only combined,66,24,42,0.36363636363636365,0.8,30900
+2025-10-13,E_final_combined,E. Final + technical confirmation,66,24,42,0.36363636363636365,0.8,30900
+2025-10-20,A_current_success,A. Current success only,70,23,47,0.32857142857142857,0.7666666666666667,33900
+2025-10-20,B_success_deterioration,B. Success + deterioration,70,25,45,0.35714285714285715,0.8333333333333334,32700
+2025-10-20,C_success_persistence,C. Success + persistence,70,23,47,0.32857142857142857,0.7666666666666667,33900
+2025-10-20,D_business_only,D. Business-only combined,70,25,45,0.35714285714285715,0.8333333333333334,32700
+2025-10-20,E_final_combined,E. Final + technical confirmation,70,25,45,0.35714285714285715,0.8333333333333334,32700
+2025-10-27,A_current_success,A. Current success only,77,27,50,0.35064935064935066,0.9,35700
+2025-10-27,B_success_deterioration,B. Success + deterioration,77,25,52,0.3246753246753247,0.8333333333333334,36900
+2025-10-27,C_success_persistence,C. Success + persistence,77,25,52,0.3246753246753247,0.8333333333333334,36900
+2025-10-27,D_business_only,D. Business-only combined,77,25,52,0.3246753246753247,0.8333333333333334,36900
+2025-10-27,E_final_combined,E. Final + technical confirmation,77,25,52,0.3246753246753247,0.8333333333333334,36900
+2025-11-03,A_current_success,A. Current success only,80,28,52,0.35,0.9333333333333333,36900
+2025-11-03,B_success_deterioration,B. Success + deterioration,80,25,55,0.3125,0.8333333333333334,38700
+2025-11-03,C_success_persistence,C. Success + persistence,80,28,52,0.35,0.9333333333333333,36900
+2025-11-03,D_business_only,D. Business-only combined,80,25,55,0.3125,0.8333333333333334,38700
+2025-11-03,E_final_combined,E. Final + technical confirmation,80,29,51,0.3625,0.9666666666666667,36300
+2025-11-10,A_current_success,A. Current success only,74,22,52,0.2972972972972973,0.7333333333333333,36900
+2025-11-10,B_success_deterioration,B. Success + deterioration,74,25,49,0.33783783783783783,0.8333333333333334,35100
+2025-11-10,C_success_persistence,C. Success + persistence,74,21,53,0.28378378378378377,0.7,37500
+2025-11-10,D_business_only,D. Business-only combined,74,23,51,0.3108108108108108,0.7666666666666667,36300
+2025-11-10,E_final_combined,E. Final + technical confirmation,74,22,52,0.2972972972972973,0.7333333333333333,36900
+2025-11-17,A_current_success,A. Current success only,63,17,46,0.2698412698412698,0.5666666666666667,33300
+2025-11-17,B_success_deterioration,B. Success + deterioration,63,23,40,0.36507936507936506,0.7666666666666667,29700
+2025-11-17,C_success_persistence,C. Success + persistence,63,19,44,0.30158730158730157,0.6333333333333333,32100
+2025-11-17,D_business_only,D. Business-only combined,63,22,41,0.3492063492063492,0.7333333333333333,30300
+2025-11-17,E_final_combined,E. Final + technical confirmation,63,22,41,0.3492063492063492,0.7333333333333333,30300
+2025-11-24,A_current_success,A. Current success only,60,21,39,0.35,0.7,29100
+2025-11-24,B_success_deterioration,B. Success + deterioration,60,23,37,0.38333333333333336,0.7666666666666667,27900
+2025-11-24,C_success_persistence,C. Success + persistence,60,19,41,0.31666666666666665,0.6333333333333333,30300
+2025-11-24,D_business_only,D. Business-only combined,60,23,37,0.38333333333333336,0.7666666666666667,27900
+2025-11-24,E_final_combined,E. Final + technical confirmation,60,23,37,0.38333333333333336,0.7666666666666667,27900
+2025-12-01,A_current_success,A. Current success only,65,19,46,0.2923076923076923,0.6333333333333333,33300
+2025-12-01,B_success_deterioration,B. Success + deterioration,65,22,43,0.3384615384615385,0.7333333333333333,31500
+2025-12-01,C_success_persistence,C. Success + persistence,65,18,47,0.27692307692307694,0.6,33900
+2025-12-01,D_business_only,D. Business-only combined,65,22,43,0.3384615384615385,0.7333333333333333,31500
+2025-12-01,E_final_combined,E. Final + technical confirmation,65,21,44,0.3230769230769231,0.7,32100
+2025-12-08,A_current_success,A. Current success only,63,20,43,0.31746031746031744,0.6666666666666666,31500
+2025-12-08,B_success_deterioration,B. Success + deterioration,63,23,40,0.36507936507936506,0.7666666666666667,29700
+2025-12-08,C_success_persistence,C. Success + persistence,63,17,46,0.2698412698412698,0.5666666666666667,33300
+2025-12-08,D_business_only,D. Business-only combined,63,23,40,0.36507936507936506,0.7666666666666667,29700
+2025-12-08,E_final_combined,E. Final + technical confirmation,63,21,42,0.3333333333333333,0.7,30900
+2025-12-15,A_current_success,A. Current success only,60,18,42,0.3,0.6,30900
+2025-12-15,B_success_deterioration,B. Success + deterioration,60,22,38,0.36666666666666664,0.7333333333333333,28500
+2025-12-15,C_success_persistence,C. Success + persistence,60,16,44,0.26666666666666666,0.5333333333333333,32100
+2025-12-15,D_business_only,D. Business-only combined,60,22,38,0.36666666666666664,0.7333333333333333,28500
+2025-12-15,E_final_combined,E. Final + technical confirmation,60,22,38,0.36666666666666664,0.7333333333333333,28500
+2025-12-22,A_current_success,A. Current success only,59,20,39,0.3389830508474576,0.6666666666666666,29100
+2025-12-22,B_success_deterioration,B. Success + deterioration,59,23,36,0.3898305084745763,0.7666666666666667,27300
+2025-12-22,C_success_persistence,C. Success + persistence,59,18,41,0.3050847457627119,0.6,30300
+2025-12-22,D_business_only,D. Business-only combined,59,23,36,0.3898305084745763,0.7666666666666667,27300
+2025-12-22,E_final_combined,E. Final + technical confirmation,59,21,38,0.3559322033898305,0.7,28500
+2025-12-29,A_current_success,A. Current success only,59,26,33,0.4406779661016949,0.8666666666666667,25500
+2025-12-29,B_success_deterioration,B. Success + deterioration,59,26,33,0.4406779661016949,0.8666666666666667,25500
+2025-12-29,C_success_persistence,C. Success + persistence,59,24,35,0.4067796610169492,0.8,26700
+2025-12-29,D_business_only,D. Business-only combined,59,26,33,0.4406779661016949,0.8666666666666667,25500
+2025-12-29,E_final_combined,E. Final + technical confirmation,59,25,34,0.423728813559322,0.8333333333333334,26100
+2026-01-05,A_current_success,A. Current success only,58,29,29,0.5,0.9666666666666667,23100
+2026-01-05,B_success_deterioration,B. Success + deterioration,58,22,36,0.3793103448275862,0.7333333333333333,27300
+2026-01-05,C_success_persistence,C. Success + persistence,58,28,30,0.4827586206896552,0.9333333333333333,23700
+2026-01-05,D_business_only,D. Business-only combined,58,22,36,0.3793103448275862,0.7333333333333333,27300
+2026-01-05,E_final_combined,E. Final + technical confirmation,58,24,34,0.41379310344827586,0.8,26100
+2026-01-12,A_current_success,A. Current success only,54,27,27,0.5,0.9,21900
+2026-01-12,B_success_deterioration,B. Success + deterioration,54,27,27,0.5,0.9,21900
+2026-01-12,C_success_persistence,C. Success + persistence,54,25,29,0.46296296296296297,0.8333333333333334,23100
+2026-01-12,D_business_only,D. Business-only combined,54,25,29,0.46296296296296297,0.8333333333333334,23100
+2026-01-12,E_final_combined,E. Final + technical confirmation,54,28,26,0.5185185185185185,0.9333333333333333,21300

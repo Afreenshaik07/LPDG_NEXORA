@@ -1,0 +1,121 @@
+week_start,rank,gateway_id,score,reason
+2026-02-02,1,022C6F326E3B,0.9637129461584996,"meter-read success is 14%; 6 consecutive low-success weeks; 254,891s offline; 1196 disconnections; 53 reboots"
+2026-02-02,2,0E1B6F4DBA34,0.9498298548094374,"meter-read success is 41%; success fell 19% recently; 2 consecutive low-success weeks; 6,589s offline; 711 disconnections"
+2026-02-02,3,06F49BD8F572,0.949573502722323,"meter-read success is 28%; success fell 11% recently; 4 consecutive low-success weeks; 4,511s offline; 272 disconnections; 45 reboots"
+2026-02-02,4,0A4E33E2692B,0.9479098608590442,"meter-read success is 47%; success fell 35% recently; 1,672s offline; 389 disconnections"
+2026-02-02,5,0A2778A31BE3,0.9135783424077434,"meter-read success is 48%; success fell 24% recently; 2 consecutive low-success weeks; 6,345s offline"
+2026-02-02,6,06FFEC2EFA5E,0.9020704779189352,"meter-read success is 62%; success fell 22% recently; 4,561s offline; 295 disconnections"
+2026-02-02,7,0AA296FF247D,0.8980837870538414,meter-read success is 61%; success fell 22% recently; 866s offline
+2026-02-02,8,02423E0E6E9F,0.8828750756200846,"meter-read success is 19%; 7 consecutive low-success weeks; 14,658s offline; 994 disconnections; 418 reboots"
+2026-02-02,9,0A55DA266F71,0.8794623411978221,meter-read success is 65%; success fell 23% recently
+2026-02-02,10,064AED1EC0AA,0.8749742891712038,meter-read success is 51%; 2 consecutive low-success weeks; 16 reboots
+2026-02-02,11,02097AB58D3C,0.8725037810042349,meter-read success is 66%; success fell 13% recently; 2 consecutive low-success weeks
+2026-02-02,12,0279D2AC6ACE,0.8573306110102844,meter-read success is 72%; success fell 14% recently
+2026-02-02,13,0E9A30D927A5,0.8560465819721718,meter-read success is 35%; 7 consecutive low-success weeks; 873s offline; 321 disconnections; 39 reboots
+2026-02-02,14,0E9DC914D8DF,0.8547701149425287,meter-read success is 67%; 2 consecutive low-success weeks
+2026-02-02,15,0AD276FC5E27,0.8533469449485783,meter-read success is 78%; 484s offline
+2026-02-09,1,022C6F326E3B,0.8088793103448276,"meter-read success is 14%; 6 consecutive low-success weeks; latest meter-read data is 1 week old; 323,317s offline; 1781 disconnections; 94 reboots"
+2026-02-09,2,02423E0E6E9F,0.8068103448275862,"meter-read success is 19%; 7 consecutive low-success weeks; latest meter-read data is 1 week old; 222,455s offline; 953 disconnections; 320 reboots"
+2026-02-09,3,02D4DFEF402A,0.8066810344827586,"meter-read success is 14%; 8 consecutive low-success weeks; latest meter-read data is 1 week old; 39,265s offline; 1236 disconnections"
+2026-02-09,4,024570739DE0,0.8043965517241379,"meter-read success is 8%; 4 consecutive low-success weeks; latest meter-read data is 1 week old; 4,465s offline; 104 disconnections; 52 reboots"
+2026-02-09,5,0ADD02AB693D,0.80375,"meter-read success is 13%; 7 consecutive low-success weeks; latest meter-read data is 1 week old; 11,183s offline; 447 disconnections"
+2026-02-09,6,0AB6B45C775A,0.8016810344827587,"meter-read success is 21%; 4 consecutive low-success weeks; latest meter-read data is 1 week old; 605,618s offline; 1978 disconnections; 42 reboots"
+2026-02-09,7,06C0D5E3BCDB,0.8013793103448277,"meter-read success is 25%; 8 consecutive low-success weeks; latest meter-read data is 1 week old; 61,226s offline; 369 disconnections; 22 reboots"
+2026-02-09,8,069A98DEEB1D,0.7946120689655173,"meter-read success is 27%; 14 consecutive low-success weeks; latest meter-read data is 1 week old; 13,005s offline; 230 disconnections"
+2026-02-09,9,06F49BD8F572,0.7909051724137932,"meter-read success is 28%; 4 consecutive low-success weeks; latest meter-read data is 1 week old; 30,972s offline; 236 disconnections; 42 reboots"
+2026-02-09,10,02314F9A9168,0.7900431034482759,"meter-read success is 25%; 6 consecutive low-success weeks; latest meter-read data is 1 week old; 17,431s offline; 272 disconnections"
+2026-02-09,11,0AC437023B18,0.79,"meter-read success is 7%; 17 consecutive low-success weeks; latest meter-read data is 1 week old; 19,742s offline; 450 disconnections"
+2026-02-09,12,0E55F28AB569,0.7879310344827587,meter-read success is 21%; 12 consecutive low-success weeks; latest meter-read data is 1 week old; 189 disconnections; 40 reboots
+2026-02-09,13,02892F51E1CB,0.7870258620689656,"meter-read success is 46%; 5 consecutive low-success weeks; latest meter-read data is 1 week old; 7,906s offline; 1991 disconnections"
+2026-02-09,14,02C0F45F31E7,0.7834482758620689,"meter-read success is 8%; 7 consecutive low-success weeks; latest meter-read data is 1 week old; 726,642s offline; 1364 disconnections"
+2026-02-09,15,0E1B6F4DBA34,0.7814655172413794,"meter-read success is 41%; 2 consecutive low-success weeks; latest meter-read data is 1 week old; 19,309s offline; 658 disconnections"
+2026-02-16,1,022C6F326E3B,0.8086309523809524,"meter-read success is 14%; 6 consecutive low-success weeks; latest meter-read data is 2 weeks old; 136,330s offline; 1199 disconnections; 86 reboots"
+2026-02-16,2,02D4DFEF402A,0.8074829931972789,"meter-read success is 14%; 8 consecutive low-success weeks; latest meter-read data is 2 weeks old; 25,905s offline; 1301 disconnections"
+2026-02-16,3,02423E0E6E9F,0.8056972789115646,"meter-read success is 19%; 7 consecutive low-success weeks; latest meter-read data is 2 weeks old; 11,960s offline; 722 disconnections; 213 reboots"
+2026-02-16,4,024570739DE0,0.8048469387755103,"meter-read success is 8%; 4 consecutive low-success weeks; latest meter-read data is 2 weeks old; 4,465s offline; 138 disconnections; 69 reboots"
+2026-02-16,5,06C0D5E3BCDB,0.8018707482993197,"meter-read success is 25%; 8 consecutive low-success weeks; latest meter-read data is 2 weeks old; 19,326s offline; 535 disconnections; 34 reboots"
+2026-02-16,6,0AB6B45C775A,0.7995748299319728,"meter-read success is 21%; 4 consecutive low-success weeks; latest meter-read data is 2 weeks old; 218,592s offline; 404 disconnections; 13 reboots"
+2026-02-16,7,0E55F28AB569,0.7946003401360544,meter-read success is 21%; 12 consecutive low-success weeks; latest meter-read data is 2 weeks old; 839s offline
+2026-02-16,8,06F49BD8F572,0.7914540816326531,"meter-read success is 28%; 4 consecutive low-success weeks; latest meter-read data is 2 weeks old; 5,744s offline; 398 disconnections; 86 reboots"
+2026-02-16,9,0AC437023B18,0.7905612244897959,"meter-read success is 7%; 17 consecutive low-success weeks; latest meter-read data is 2 weeks old; 19,742s offline; 750 disconnections"
+2026-02-16,10,02314F9A9168,0.7871173469387756,"meter-read success is 25%; 6 consecutive low-success weeks; latest meter-read data is 2 weeks old; 2,315s offline; 218 disconnections"
+2026-02-16,11,02892F51E1CB,0.7863520408163265,"meter-read success is 46%; 5 consecutive low-success weeks; latest meter-read data is 2 weeks old; 5,576s offline; 2662 disconnections"
+2026-02-16,12,0E1B6F4DBA34,0.7844812925170068,"meter-read success is 41%; 2 consecutive low-success weeks; latest meter-read data is 2 weeks old; 23,229s offline; 1291 disconnections"
+2026-02-16,13,02C0F45F31E7,0.7839285714285713,"meter-read success is 8%; 7 consecutive low-success weeks; latest meter-read data is 2 weeks old; 494,276s offline; 1375 disconnections"
+2026-02-16,14,0ADD02AB693D,0.7805272108843537,"meter-read success is 13%; 7 consecutive low-success weeks; latest meter-read data is 2 weeks old; 31,493s offline; 346 disconnections"
+2026-02-16,15,0A4E33E2692B,0.7798469387755103,"meter-read success is 47%; latest meter-read data is 2 weeks old; 128,651s offline; 920 disconnections; 39 reboots"
+2026-02-23,1,022C6F326E3B,0.8093120805369127,"meter-read success is 14%; 6 consecutive low-success weeks; latest meter-read data is 3 weeks old; 669,680s offline; 1724 disconnections; 119 reboots"
+2026-02-23,2,02D4DFEF402A,0.8076342281879194,"meter-read success is 14%; 8 consecutive low-success weeks; latest meter-read data is 3 weeks old; 25,644s offline; 2508 disconnections; 20 reboots"
+2026-02-23,3,02423E0E6E9F,0.8051174496644296,"meter-read success is 19%; 7 consecutive low-success weeks; latest meter-read data is 3 weeks old; 3,803s offline; 534 disconnections; 120 reboots"
+2026-02-23,4,024570739DE0,0.8031879194630872,"meter-read success is 8%; 4 consecutive low-success weeks; latest meter-read data is 3 weeks old; 4,465s offline; 43 reboots"
+2026-02-23,5,06C0D5E3BCDB,0.8011325503355705,"meter-read success is 25%; 8 consecutive low-success weeks; latest meter-read data is 3 weeks old; 21,567s offline; 363 disconnections; 25 reboots"
+2026-02-23,6,0AB6B45C775A,0.800964765100671,"meter-read success is 21%; 4 consecutive low-success weeks; latest meter-read data is 3 weeks old; 216,603s offline; 1396 disconnections; 26 reboots"
+2026-02-23,7,0AC437023B18,0.7898489932885906,"meter-read success is 7%; 17 consecutive low-success weeks; latest meter-read data is 3 weeks old; 19,742s offline; 420 disconnections"
+2026-02-23,8,02892F51E1CB,0.7880872483221476,"meter-read success is 46%; 5 consecutive low-success weeks; latest meter-read data is 3 weeks old; 191,437s offline; 2021 disconnections; 12 reboots"
+2026-02-23,9,02C0F45F31E7,0.7833053691275168,"meter-read success is 8%; 7 consecutive low-success weeks; latest meter-read data is 3 weeks old; 416,702s offline; 1210 disconnections"
+2026-02-23,10,0A4E33E2692B,0.7813758389261745,"meter-read success is 47%; latest meter-read data is 3 weeks old; 492,146s offline; 1457 disconnections; 62 reboots"
+2026-02-23,11,0E1B6F4DBA34,0.7802852348993289,"meter-read success is 41%; 2 consecutive low-success weeks; latest meter-read data is 3 weeks old; 10,182s offline; 924 disconnections"
+2026-02-23,12,0ADD02AB693D,0.7792365771812081,"meter-read success is 13%; 7 consecutive low-success weeks; latest meter-read data is 3 weeks old; 10,193s offline; 288 disconnections"
+2026-02-23,13,06F49BD8F572,0.7736157718120805,meter-read success is 28%; 4 consecutive low-success weeks; latest meter-read data is 3 weeks old; 140 disconnections; 25 reboots
+2026-02-23,14,0E9A30D927A5,0.7700922818791947,meter-read success is 35%; 7 consecutive low-success weeks; latest meter-read data is 3 weeks old
+2026-02-23,15,06F2CDBD2C41,0.7668624161073826,meter-read success is 52%; 2 consecutive low-success weeks; latest meter-read data is 3 weeks old; 849s offline; 314 disconnections
+2026-03-02,1,022C6F326E3B,0.8085702341137124,"meter-read success is 14%; 6 consecutive low-success weeks; latest meter-read data is 4 weeks old; 726,642s offline; 1412 disconnections; 57 reboots"
+2026-03-02,2,02C0F45F31E7,0.8074414715719064,"meter-read success is 8%; 7 consecutive low-success weeks; latest meter-read data is 4 weeks old; 185,551s offline; 1483 disconnections"
+2026-03-02,3,02D4DFEF402A,0.8073578595317725,"meter-read success is 14%; 8 consecutive low-success weeks; latest meter-read data is 4 weeks old; 98,763s offline; 2302 disconnections"
+2026-03-02,4,024570739DE0,0.8056020066889632,"meter-read success is 8%; 4 consecutive low-success weeks; latest meter-read data is 4 weeks old; 4,465s offline; 172 disconnections; 86 reboots"
+2026-03-02,5,06C0D5E3BCDB,0.8020903010033443,"meter-read success is 25%; 8 consecutive low-success weeks; latest meter-read data is 4 weeks old; 156,879s offline; 554 disconnections; 23 reboots"
+2026-03-02,6,0AC437023B18,0.7903846153846155,"meter-read success is 7%; 17 consecutive low-success weeks; latest meter-read data is 4 weeks old; 19,742s offline; 1140 disconnections"
+2026-03-02,7,02892F51E1CB,0.7893812709030099,"meter-read success is 46%; 5 consecutive low-success weeks; latest meter-read data is 4 weeks old; 119,451s offline; 2557 disconnections; 24 reboots"
+2026-03-02,8,02423E0E6E9F,0.7876254180602007,meter-read success is 19%; 7 consecutive low-success weeks; latest meter-read data is 4 weeks old; 230 disconnections; 40 reboots
+2026-03-02,9,06F49BD8F572,0.7862458193979933,meter-read success is 28%; 4 consecutive low-success weeks; latest meter-read data is 4 weeks old; 828s offline; 175 disconnections; 17 reboots
+2026-03-02,10,0A4E33E2692B,0.7815635451505016,"meter-read success is 47%; latest meter-read data is 4 weeks old; 726,642s offline; 1444 disconnections; 61 reboots"
+2026-03-02,11,0ADD02AB693D,0.7774247491638796,"meter-read success is 13%; 7 consecutive low-success weeks; latest meter-read data is 4 weeks old; 1,465s offline; 260 disconnections"
+2026-03-02,12,0E9A30D927A5,0.7767558528428095,meter-read success is 35%; 7 consecutive low-success weeks; latest meter-read data is 4 weeks old; 301s offline
+2026-03-02,13,028B24EADDAD,0.7710284280936455,"meter-read success is 55%; 6 consecutive low-success weeks; latest meter-read data is 4 weeks old; 1,189s offline; 186 disconnections"
+2026-03-02,14,024DD3A9ADCA,0.7704849498327759,"meter-read success is 61%; 4 consecutive low-success weeks; latest meter-read data is 4 weeks old; 4,403s offline; 254 disconnections; 42 reboots"
+2026-03-02,15,0AB6B45C775A,0.7695652173913045,"meter-read success is 21%; 4 consecutive low-success weeks; latest meter-read data is 4 weeks old; 1,898s offline; 501 disconnections"
+2026-03-09,1,022C6F326E3B,0.8086633663366336,"meter-read success is 14%; 6 consecutive low-success weeks; latest meter-read data is 5 weeks old; 123,620s offline; 1220 disconnections; 109 reboots"
+2026-03-09,2,02D4DFEF402A,0.8064768976897689,"meter-read success is 14%; 8 consecutive low-success weeks; latest meter-read data is 5 weeks old; 31,550s offline; 1390 disconnections"
+2026-03-09,3,024570739DE0,0.8048679867986799,"meter-read success is 8%; 4 consecutive low-success weeks; latest meter-read data is 5 weeks old; 4,465s offline; 132 disconnections; 66 reboots"
+2026-03-09,4,06C0D5E3BCDB,0.8014026402640264,"meter-read success is 25%; 8 consecutive low-success weeks; latest meter-read data is 5 weeks old; 30,707s offline; 337 disconnections; 16 reboots"
+2026-03-09,5,02423E0E6E9F,0.7972772277227723,"meter-read success is 19%; 7 consecutive low-success weeks; latest meter-read data is 5 weeks old; 1,552s offline"
+2026-03-09,6,02892F51E1CB,0.7886551155115512,"meter-read success is 46%; 5 consecutive low-success weeks; latest meter-read data is 5 weeks old; 43,453s offline; 2035 disconnections"
+2026-03-09,7,06F49BD8F572,0.7856023102310231,"meter-read success is 28%; 4 consecutive low-success weeks; latest meter-read data is 5 weeks old; 1,354s offline; 110 disconnections"
+2026-03-09,8,02C0F45F31E7,0.7841584158415842,"meter-read success is 8%; 7 consecutive low-success weeks; latest meter-read data is 5 weeks old; 407,922s offline; 2145 disconnections"
+2026-03-09,9,0AC437023B18,0.7834983498349835,"meter-read success is 7%; 17 consecutive low-success weeks; latest meter-read data is 5 weeks old; 19,742s offline"
+2026-03-09,10,0A4E33E2692B,0.7813531353135313,"meter-read success is 47%; latest meter-read data is 5 weeks old; 223,301s offline; 1382 disconnections; 55 reboots"
+2026-03-09,11,028B24EADDAD,0.7755775577557755,"meter-read success is 55%; 6 consecutive low-success weeks; latest meter-read data is 5 weeks old; 28,944s offline; 225 disconnections"
+2026-03-09,12,024DD3A9ADCA,0.7742574257425743,"meter-read success is 61%; 4 consecutive low-success weeks; latest meter-read data is 5 weeks old; 65,622s offline; 472 disconnections; 127 reboots"
+2026-03-09,13,06F2CDBD2C41,0.770049504950495,"meter-read success is 52%; 2 consecutive low-success weeks; latest meter-read data is 5 weeks old; 22,446s offline; 259 disconnections"
+2026-03-09,14,0AB6B45C775A,0.7677392739273927,"meter-read success is 21%; 4 consecutive low-success weeks; latest meter-read data is 5 weeks old; 1,027s offline; 293 disconnections"
+2026-03-09,15,0ADD02AB693D,0.761427392739274,meter-read success is 13%; 7 consecutive low-success weeks; latest meter-read data is 5 weeks old
+2026-03-16,1,02D4DFEF402A,0.808400974025974,"meter-read success is 14%; 8 consecutive low-success weeks; latest meter-read data is 6 weeks old; 51,548s offline; 1691 disconnections"
+2026-03-16,2,02C0F45F31E7,0.8082386363636364,"meter-read success is 8%; 7 consecutive low-success weeks; latest meter-read data is 6 weeks old; 249,101s offline; 2145 disconnections"
+2026-03-16,3,022C6F326E3B,0.8070616883116883,"meter-read success is 14%; 6 consecutive low-success weeks; latest meter-read data is 6 weeks old; 57,171s offline; 602 disconnections; 11 reboots"
+2026-03-16,4,024570739DE0,0.8066558441558442,"meter-read success is 8%; 4 consecutive low-success weeks; latest meter-read data is 6 weeks old; 4,465s offline; 216 disconnections; 108 reboots"
+2026-03-16,5,06C0D5E3BCDB,0.7987012987012987,"meter-read success is 25%; 8 consecutive low-success weeks; latest meter-read data is 6 weeks old; 3,240s offline; 235 disconnections; 12 reboots"
+2026-03-16,6,0AC437023B18,0.7908279220779221,"meter-read success is 7%; 17 consecutive low-success weeks; latest meter-read data is 6 weeks old; 19,742s offline; 1095 disconnections"
+2026-03-16,7,02892F51E1CB,0.7864042207792209,"meter-read success is 46%; 5 consecutive low-success weeks; latest meter-read data is 6 weeks old; 4,382s offline; 1353 disconnections"
+2026-03-16,8,02423E0E6E9F,0.7834821428571428,meter-read success is 19%; 7 consecutive low-success weeks; latest meter-read data is 6 weeks old
+2026-03-16,9,0A4E33E2692B,0.7824675324675325,"meter-read success is 47%; latest meter-read data is 6 weeks old; 83,437s offline; 1553 disconnections; 72 reboots"
+2026-03-16,10,028B24EADDAD,0.7763798701298701,"meter-read success is 55%; 6 consecutive low-success weeks; latest meter-read data is 6 weeks old; 6,215s offline; 254 disconnections"
+2026-03-16,11,024DD3A9ADCA,0.7747564935064934,"meter-read success is 61%; 4 consecutive low-success weeks; latest meter-read data is 6 weeks old; 11,945s offline; 491 disconnections; 148 reboots"
+2026-03-16,12,06F2CDBD2C41,0.7714285714285716,"meter-read success is 52%; 2 consecutive low-success weeks; latest meter-read data is 6 weeks old; 3,185s offline; 297 disconnections"
+2026-03-16,13,0AA296FF247D,0.7676136363636363,"meter-read success is 61%; latest meter-read data is 6 weeks old; 63,293s offline; 384 disconnections; 61 reboots"
+2026-03-16,14,0AB6B45C775A,0.7661525974025973,meter-read success is 21%; 4 consecutive low-success weeks; latest meter-read data is 6 weeks old; 938s offline; 169 disconnections
+2026-03-16,15,06F49BD8F572,0.7650974025974026,meter-read success is 28%; 4 consecutive low-success weeks; latest meter-read data is 6 weeks old
+2026-03-23,1,022C6F326E3B,0.8075487012987013,"meter-read success is 14%; 6 consecutive low-success weeks; latest meter-read data is 7 weeks old; 41,437s offline; 924 disconnections; 14 reboots"
+2026-03-23,2,024570739DE0,0.8064529220779221,"meter-read success is 8%; 4 consecutive low-success weeks; latest meter-read data is 7 weeks old; 4,465s offline; 166 disconnections; 83 reboots"
+2026-03-23,3,02D4DFEF402A,0.8046672077922077,meter-read success is 14%; 8 consecutive low-success weeks; latest meter-read data is 7 weeks old; 813s offline; 1421 disconnections
+2026-03-23,4,0AC437023B18,0.7903409090909091,"meter-read success is 7%; 17 consecutive low-success weeks; latest meter-read data is 7 weeks old; 19,742s offline; 900 disconnections"
+2026-03-23,5,02C0F45F31E7,0.7840909090909091,"meter-read success is 8%; 7 consecutive low-success weeks; latest meter-read data is 7 weeks old; 264,028s offline; 2056 disconnections"
+2026-03-23,6,0A4E33E2692B,0.7824675324675325,"meter-read success is 47%; latest meter-read data is 7 weeks old; 726,642s offline; 1288 disconnections; 62 reboots"
+2026-03-23,7,02892F51E1CB,0.7823863636363637,"meter-read success is 46%; 5 consecutive low-success weeks; latest meter-read data is 7 weeks old; 2,956s offline; 1118 disconnections"
+2026-03-23,8,02423E0E6E9F,0.7823051948051948,meter-read success is 19%; 7 consecutive low-success weeks; latest meter-read data is 7 weeks old
+2026-03-23,9,06C0D5E3BCDB,0.7798295454545455,meter-read success is 25%; 8 consecutive low-success weeks; latest meter-read data is 7 weeks old
+2026-03-23,10,024DD3A9ADCA,0.7731331168831168,"meter-read success is 61%; 4 consecutive low-success weeks; latest meter-read data is 7 weeks old; 4,504s offline; 320 disconnections; 66 reboots"
+2026-03-23,11,0AA296FF247D,0.7673701298701299,"meter-read success is 61%; latest meter-read data is 7 weeks old; 36,893s offline; 385 disconnections; 50 reboots"
+2026-03-23,12,0AB6B45C775A,0.7650974025974026,meter-read success is 21%; 4 consecutive low-success weeks; latest meter-read data is 7 weeks old; 378s offline; 147 disconnections
+2026-03-23,13,0E9A30D927A5,0.7629464285714286,meter-read success is 35%; 7 consecutive low-success weeks; latest meter-read data is 7 weeks old
+2026-03-23,14,06F49BD8F572,0.7625811688311688,meter-read success is 28%; 4 consecutive low-success weeks; latest meter-read data is 7 weeks old
+2026-03-23,15,028B24EADDAD,0.7575081168831168,meter-read success is 55%; 6 consecutive low-success weeks; latest meter-read data is 7 weeks old; 140 disconnections

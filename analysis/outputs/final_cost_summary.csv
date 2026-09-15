@@ -1,0 +1,2 @@
+decision_weeks,selected_visits,visit_capacity_per_week,visit_cost_eur,fixed_dispatch_cost_eur,faulty_gateway_week_cost_eur,note
+8,120,15,380,45600,600,The €600 figure is the challenge's recurring missed-fault cost and is not estimated from predictions.csv.

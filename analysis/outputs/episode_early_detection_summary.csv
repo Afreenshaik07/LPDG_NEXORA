@@ -1,0 +1,4 @@
+strategy,strategy_label,episodes_evaluated,caught_before_episode,caught_at_episode_start,caught_after_start,never_selected,early_detection_rate,caught_at_or_before_start_rate,mean_missed_failure_cost,total_estimated_missed_cost
+A_current_success,A. Current success only,162,26,0,87,49,0.16049382716049382,0.16049382716049382,1092.5925925925926,177000
+B_success_deterioration,B. Success + deterioration,162,37,23,88,14,0.22839506172839505,0.37037037037037035,418.51851851851853,67800
+C_current_production,C. Current production score,162,34,20,87,21,0.20987654320987653,0.3333333333333333,511.1111111111111,82800
