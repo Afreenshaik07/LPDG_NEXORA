@@ -3,11 +3,6 @@
 ## LPDG Innovation Hub Selection Challenge 2026
 
 > **Evidence-Driven Weekly Field-Visit Prioritization for a LoRaWAN Utility Gateway Fleet**
-
-**Candidate:** Afreen Shaik  
-**Specialization Track:** Part 2 — Data Science  
-**Institution:** Rajeev Gandhi Memorial College of Engineering and Technology (RGMCET)
-
 ---
 
 ## Executive Overview
@@ -997,8 +992,7 @@ The dashboard provides an interactive view of the weekly gateway priorities and 
 
 **Watch the NEXORA 2026 demonstration:**
 
-https://drive.google.com/file/d/1bzDyNQmgAiVvHSn1ncgWZZGxF2S5c_8_/view?usp=sharing
-
+https://drive.google.com/file/d/1cTQ-5HkS-_ZzHj4fdEKDZK22P0oM9UWK/view?usp=sharing
 The walkthrough demonstrates:
 
 1. Business problem
@@ -1411,4 +1405,4 @@ https://nexora-lpdg.streamlit.app/
 
 ### Demo Recording
 
-https://drive.google.com/file/d/1bzDyNQmgAiVvHSn1ncgWZZGxF2S5c_8_/view?usp=sharing
+https://drive.google.com/file/d/1cTQ-5HkS-_ZzHj4fdEKDZK22P0oM9UWK/view?usp=sharing
